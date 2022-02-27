@@ -1,0 +1,1 @@
+# cypress-logic-analyser-buffer
